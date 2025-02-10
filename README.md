@@ -8,5 +8,5 @@ In [draw.io](https://app.diagrams.net/), choose `Device`.
 
 Click on `Open Existing Diagram`.
 
-Select `diagrams.drawio`.
+Select `*.drawio`.
 
