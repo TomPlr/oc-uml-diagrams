@@ -2,7 +2,7 @@
 
 This project contains the file to open UML diagrams in [draw.io](https://app.diagrams.net/).
 
-Download the file `diagrams.drawio`.
+Download the required file `*.drawio`.
 
 In [draw.io](https://app.diagrams.net/), choose `Device`.
 
